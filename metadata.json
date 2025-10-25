@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Zanvexis Gestor de Ordens de Serviço",
+  "description": "A user-friendly web application for production teams to register, track, and report on service orders (OS). All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
